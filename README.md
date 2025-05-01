@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**:
+**URL**:  https://aura-pixel-showcase-38g1.vercel.app/
 
 Follow these steps:
 
